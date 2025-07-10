@@ -1,0 +1,16 @@
+.poster{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+.image{
+    border: 10px solid white
+}
+
+.text{
+    color:white;
+    font-family: "Libre";
+}
